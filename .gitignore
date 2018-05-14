@@ -29,6 +29,7 @@ bld/
 
 
 *.txt
+*.class
 
 
 # MSTest test Results
