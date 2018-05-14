@@ -30,6 +30,7 @@ bld/
 
 *.txt
 *.class
+*.cs
 
 
 # MSTest test Results
